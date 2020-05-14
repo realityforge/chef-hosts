@@ -1,7 +1,7 @@
 Description
 ===========
 
-[![Build Status](https://secure.travis-ci.org/realityforge/chef-hosts.svg?branch=master)](http://travis-ci.org/realityforge/chef-hosts)
+[![Build Status](https://api.travis-ci.com/realityforge/chef-hosts.svg?branch=master)](http://travis-ci.org/realityforge/chef-hosts)
 
 The hosts cookbook configures the /etc/hosts file.
 
